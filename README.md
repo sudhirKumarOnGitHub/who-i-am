@@ -1,4 +1,4 @@
-- 👋 Hi, I’m sudhir kumar
+- 👋 Hi, I’m sudhir kumar(Senior Engineer @BOSCH)
 - 👀 I’m interested in DevOps.
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on DevOps
